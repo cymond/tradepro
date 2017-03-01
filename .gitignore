@@ -12,3 +12,4 @@ private
 # Coverage reports
 .coverage
 .coverage.*
+private/SystemR/system.pck
